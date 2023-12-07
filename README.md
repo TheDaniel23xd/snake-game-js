@@ -19,7 +19,7 @@ Aquí tiene una demostración en vivo:  https://TheDaniel23xd.github.io/snake-ga
 ### Landing Page
 se creo un juego de serpiente retro inspirado en el icónico Snake de Nokia utilizando HMTL, CSS y JavaScript.
 
-![](snake-game-ai-gen.png)
+![](snake-game-ai-gen-potada.png)
 
 
 
