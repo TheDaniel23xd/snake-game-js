@@ -11,7 +11,8 @@
 
 
 ## Demo
-Aquí tiene una demostración en vivo:  https://TheDaniel23xd.github.io/snake-game-js/
+>[!Note]
+>Aquí tiene una demostración en vivo:  https://TheDaniel23xd.github.io/snake-game-js/
 
 
 ## Site
